@@ -1,0 +1,67 @@
+.SideLeft{
+height: 1024px;
+width: 720px;
+position: relative;
+}
+.SideLeft img{
+    position: absolute;
+    height: 103.00006866455078px;
+    width: 439px;
+    left: 80px;
+    top: 68px;
+    border-radius: 0px;
+}
+.SideLeft .comaa{
+position: absolute;
+width: 180px;
+height: 21px;
+left: 20px;
+top: 210px;
+font-family: 'Gayathri';
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+line-height: 117px;
+color: #BABABA;
+}
+.SideLeft .content{
+    position: absolute;
+    width: 473px;
+    height: 164px;
+    left: 80px;
+    top: 332px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    color: #696F79;
+}
+.SideLeft .bottom{
+position: absolute;
+width: 125px;
+height: 38px;
+left: 80px;
+top: 555px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 38px;
+display: flex;
+align-items: center;
+
+color: #696F79;
+
+}
+.SideLeft .Joystick{
+    position: absolute;
+width: 336px;
+height: 418px;
+left: 351px;
+top: 509px;
+background: url(../../assets/superscene-34-joystick_trans\ 1.svg);
+}

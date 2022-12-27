@@ -1,0 +1,116 @@
+.SideRight{
+    width: 720px;
+    height: 1024px;
+    position: relative;
+}
+.SideRight h1{
+position: absolute;
+width: 303px;
+height: 51px;
+left: 200px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 51px;
+color: #000000;
+}
+.SideRight .go{
+ position: absolute;
+width: 411px;
+height: 28px;
+left: 190px;
+top: 150px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #8692A6;
+}
+.SideRight .links{
+    position: absolute;
+    left: 150px;
+    top: 310px;
+    width: 380px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+
+}
+.SideRight .links a{
+width: 65px;
+height: 65px;
+text-align: center;
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+border-radius: 6px;
+text-align: center;
+}
+.SideRight .links a img{
+    height: 50px;
+    width: 50px;
+}
+form{
+    position: absolute;
+    top: 450px;
+    left: 130px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+form input{
+    width: 426px;
+    height: 64px;
+    box-sizing: border-box;
+    border: 1px solid #8692A6;
+    border-radius: 6px;
+}
+form img{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 210px ;
+    left: 380px;
+}
+form button{
+    margin-top: 57px;
+    width: 426px;
+height: 64px;
+background: #1565D8;
+border-radius: 6px;
+}
+form label{
+width: 150px;
+height: 19px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #696F79;
+display: flex;
+align-items: center;
+}
+.haveAccount{
+    position: absolute;
+    top: 900px;
+    left: 230px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+
+    color: #696F79;
+
+}
