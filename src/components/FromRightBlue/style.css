@@ -1,0 +1,54 @@
+.FromRightBlue{
+    height: 1024px;
+    width: 798px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+.FromRightBlue form {
+    position: absolute;
+    width: 300px;
+}
+.FromRightBlue .back{
+    position: absolute;
+    top: 75px;
+    left: 106px;
+    width: 39px;
+    height: 19px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #8692A6;
+}
+.FromRightBlue h1{
+    
+position: absolute;
+width: 415px;
+height: 36px;
+left: 151px;
+top: 193px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+display: flex;
+align-items: center;
+color: #000000;
+}
+.FromRightBlue .content{
+position: absolute;
+width: 411px;
+height: 56px;
+left: 140px;
+top: 239px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #8692A6;
+}

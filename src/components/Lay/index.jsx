@@ -1,7 +1,7 @@
 import './style.css'
 import React from 'react'
 
-const Lay = (children)=> {
+const Lay = ()=> {
   
     return (
       <div className='Lay'></div>

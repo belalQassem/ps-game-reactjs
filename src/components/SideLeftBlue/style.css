@@ -1,0 +1,88 @@
+.lay{
+    width: 642px;
+    height: 1024px;
+    background: url(../../assets/backhand.svg);
+    }
+.SideLeftBlue{
+    height: 1024px;
+    width: 642px;
+    position: relative;
+    background: #1565D8;
+    opacity: 0.9;
+    }
+    .SideLeftBlue .img{
+       position: absolute;
+        width: 106px;
+        height: 57px;
+        left: 89px;
+        top: 61px;
+    }
+    .SideLeftBlue .dottedImg{ 
+        position: absolute;
+        left: 415px;
+        right: 166px;
+        top: 212px;
+        bottom: 756px;
+    }
+    .SideLeftBlue .comaa{
+    position: absolute;
+    width: 180px;
+    height: 21px;
+    left: 20px;
+    top: 210px;
+    font-family: 'Gayathri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 117px;
+    color: #00DAF7;
+    }
+    .SideLeftBlue .content{
+        position: absolute;
+        width: 473px;
+        height: 164px;
+        left: 82px;
+        top: 351px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 38px;
+        display: flex;
+        align-items: center;
+        color: #ffffff;
+    }
+    .SideLeftBlue .bottom{
+    position: absolute;
+    width: 125px;
+    height: 38px;
+    left: 82px;
+    top: 555px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    
+    color: #ffffff;
+    
+    }
+    .SideLeftBlue .Joystick{
+    position: absolute;
+    width: 33.5px;
+    height: 33px;
+    left: 484px;
+    top: 639px;
+    background: url(../../assets/Vector\ 1.png);
+    }
+    .SideLeftBlue .circle{
+        position: absolute;
+        width: 120.18px;
+        height: 120.18px;
+        left: -10px;
+        top: 896px;
+        
+    }
