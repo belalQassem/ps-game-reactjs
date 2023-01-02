@@ -1,5 +1,5 @@
 import './App.css';
-import './pages/SignUpAfter'
+import React from 'react'
 import SignUpAfter from './pages/SignUpAfter';
 import SignUpBefore from './pages/SignUpBefore';
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <SignUpAfter/>
-      {/* <SignUpBefore/> */}
+      <SignUpBefore/>
     </div>
   );
 }
