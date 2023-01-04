@@ -1,0 +1,52 @@
+.CardOne{
+position: absolute;
+height: 62px;
+width: 360px;
+left: 65px;
+top: 150px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 31px;
+text-align: right;
+color: #FFFFFF;
+
+}
+.CardTow{
+    position: absolute;
+    height: 62px;
+    width: 270px;
+    left: 650px;
+    top: 120px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 31px;
+    text-align: right;
+    color: #FFFFFF;
+}
+.CardThree{
+    position: absolute;
+    height: 80px;
+    width: 315px;
+    left: 930px;
+    top: 110px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 31px;
+    text-align: right;
+    color: #ffffff;
+    box-sizing: border-box;
+}
+
+.CodeWar,.SUPERMAN,.SPIDERMAN{
+    cursor: pointer;
+    border-radius: 60px;
+    height: 250px;
+    width: 460px;
+    position: relative;
+}
