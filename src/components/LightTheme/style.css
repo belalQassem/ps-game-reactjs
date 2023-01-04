@@ -1,0 +1,17 @@
+.LightTheme{
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    justify-content: space-between;
+    padding: 17px 9px;
+    position: absolute;
+    width: 58px;
+    height: 141px;
+    left: 25px;
+    top: 870px;
+    background: #C1C1C1;
+    border-radius: 60px;
+}
+.one,.tow{
+    cursor: pointer;
+}

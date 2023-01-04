@@ -1,0 +1,48 @@
+.Plus{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 23px;
+    top: 35px;
+    cursor: pointer;
+}
+.Like{
+    position: absolute;
+    width: 50px;
+    height: 43.9px;
+    left: 38.2px;
+    top: 379.2px;
+    width:50.42px ;
+    height:50.42px ;
+    cursor: pointer;
+}
+.Setting{
+    position: absolute;
+    width: 50px;
+    height: 43.9px;
+    left: 38.2px;
+    top: 500.5px;
+    width:50.42px ;
+    height:50.42px ;
+    cursor: pointer;
+}
+.Puzzle{
+    position: absolute;
+    width: 50px;
+    height: 43.9px;
+    left: 38.2px;
+    top: 635px;
+    width:50.42px ;
+    height:50.42px ;
+    cursor: pointer;
+}
+.Theme{
+    position: absolute;
+    width: 50px;
+    height: 43.9px;
+    left: 38.2px;
+    top: 1000px;
+    width:50.42px ;
+    height:50.42px ;
+    cursor: pointer;
+}
