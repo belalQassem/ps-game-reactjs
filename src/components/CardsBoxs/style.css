@@ -1,0 +1,11 @@
+.CardsBoxs{
+    width: 1190px;
+    height:280px;
+    position: relative;
+    top: 300px;
+    left: 150px;
+    display: flex;
+    gap: 20px;
+    overflow-x: scroll;
+    
+}
