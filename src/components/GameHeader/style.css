@@ -1,0 +1,26 @@
+.GameLogo{
+box-sizing: border-box;
+width: 110px;
+height: 110px;
+position: absolute;
+right: 37px;
+top: 35px;
+background: url(../../assets/gamelogo.svg) no-repeat ;
+border-radius: 40px;
+}
+.Welcome{
+    position: absolute;
+    width: 338px;
+    height: 90px;
+    right: 169px;
+    top: 45px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: right;
+    color: #000000;
+    margin: 0;
+    
+}
