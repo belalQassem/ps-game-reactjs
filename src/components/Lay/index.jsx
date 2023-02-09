@@ -1,11 +1,12 @@
-import './style.css'
-import React from 'react'
+import React, { Component } from 'react';
+import './style.css';
 
-const Lay = ()=> {
-  
+class Lay extends Component {
+  render() {
     return (
       <div className='Lay'></div>
-    )
-
+    );
+  }
 }
-export default Lay
+
+export default Lay;

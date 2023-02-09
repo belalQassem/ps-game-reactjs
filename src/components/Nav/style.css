@@ -1,0 +1,17 @@
+.list {
+    position: absolute;
+    left: 150px;
+    top: 10 px;
+    margin-top: 10px;
+    z-index: 10;
+}
+button{
+    font-size: 24px;
+    padding: 10px;
+    cursor: pointer;
+}
+.home,.Profile,.UsersList,.usersDetails{
+    font-size: 24px;
+    padding: 10px;
+    color: black;
+}
