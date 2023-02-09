@@ -1,3 +1,8 @@
+.SignUpAfter{
+/* width: 1440px; */
+height: 1024px;
+display: flex;
+}
 .SideRight{
     width: 720px;
     height: 1024px;
